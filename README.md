@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichealAngelo
+- 👋 Hi, I’m @Mayank_Kumar_Singh
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning python and openCV
 - 💞️ I’m looking to collaborate on a deep learning project
